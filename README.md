@@ -1,2 +1,2 @@
-# API
-API
+# API-rekomendasi
+API rekomendasi jurnal
